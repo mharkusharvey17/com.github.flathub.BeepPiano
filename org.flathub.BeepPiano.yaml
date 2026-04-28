@@ -1,0 +1,13 @@
+app-id: org.flathub.BeepPiano
+runtime: org.freedesktop.Platform
+runtime-version: '23.08'
+sdk: org.freedesktop.Sdk
+command: beep-piano
+modules:
+  - name: beep-piano
+    buildsystem: simple
+    build-commands:
+      - install -D piano.sh /app/bin/beep-piano
+    sources:
+      - type: file
+        path: piano.sh
