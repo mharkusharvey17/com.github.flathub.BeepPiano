@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>org.flathub.BeepPiano</id>
+  <name>BeepPiano</name>
+  <summary>A simple PC Speaker Piano for Linux</summary>
+  <description>
+    <p>BeepPiano allows you to play music using your motherboard's internal speaker.</p>
+  </description>
+  <launchable type="desktop-id">org.flathub.BeepPiano.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <caption>The main interface.</caption>
+      <image>https://raw.githubusercontent.com/mharkusharvey17/com.github.flathub.BeepPiano/main/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+</component>
