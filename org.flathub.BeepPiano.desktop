@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=BeepPiano
+Comment=Play music with your PC Speaker
+Exec=beep-piano
+Icon=org.flathub.BeepPiano
+Categories=AudioVideo;Audio;
+Terminal=false
